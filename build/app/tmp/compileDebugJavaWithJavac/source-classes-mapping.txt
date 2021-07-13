@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/turkish_gasoline_and_diesel_price_app/BuildConfig.java
+ com.example.turkish_gasoline_and_diesel_price_app.BuildConfig

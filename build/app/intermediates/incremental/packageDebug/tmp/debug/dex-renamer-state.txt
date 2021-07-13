@@ -1,0 +1,4 @@
+#Tue Jul 13 22:01:08 TRT 2021
+base.0=/home/abdullah/Belgeler/AndroiProject/GetX/turkish_gasoline_and_diesel_price_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
